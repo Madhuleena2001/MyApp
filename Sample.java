@@ -7,4 +7,7 @@ public class Sample{
 		 this.name=name;
 		 this.marks=marks;
 	 }
+	 public int setNo(int no){
+		 this.no=no;
+	 }
 }
