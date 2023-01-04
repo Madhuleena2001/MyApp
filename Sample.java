@@ -7,4 +7,7 @@ public class Sample{
 		 this.name=name;
 		 this.marks=marks;
 	 }
+	 public static void main(String[] args){
+		 System.out.println("hi");
+	 }
 }
