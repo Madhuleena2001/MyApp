@@ -9,5 +9,6 @@ public class Sample{
 	 }
 	 public static void main(String[] args){
 		 System.out.println("hi");
+		 Sample s1=new Sample(111,"Madhu",90.99);
 	 }
 }
