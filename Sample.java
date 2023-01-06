@@ -7,7 +7,7 @@ public class Sample{
 		 this.name=name;
 		 this.marks=marks;
 	 }
-	 public int setNo(int no){
+	 public void setNo(int no){
 		 this.no=no;
      }
 	 public static void main(String[] args){
