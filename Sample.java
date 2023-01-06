@@ -11,7 +11,7 @@ public class Sample{
 		 this.no=no;
      }
 	 public static void main(String[] args){
-		 System.out.println("hi");
+		 System.out.println("hi-hello");
 		 Sample s1=new Sample(111,"Madhu",90.99);
 	 }
 }
