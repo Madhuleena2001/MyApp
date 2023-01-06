@@ -2,6 +2,11 @@ public class Sample{
 	 int no;
 	 String name;
 	 double marks;
+	 Sample(){
+		this.no=5;
+		 this.name="Madhu";
+		 this.marks=100.0;
+	 }
 	 Sample(int no,String name,double marks){
 		 this.no=no;
 		 this.name=name;
